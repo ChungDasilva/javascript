@@ -1,6 +1,6 @@
 // Biến được khai báo bên trong hàm sẽ là biến cục bộ, và biến cục bộ thì có thể được truy cập bên trong hàm (không có khái niệm scope trong 1 khối lệnh).
 // Biến được khai báo bên ngoài hàm sẽ là biến toàn cục, và có thể được truy cập từ bất cứ đâu.
-
+  "use strict"
 function testScope()
 {
     var local_var_1 = global_var_1 = "inside_function";
