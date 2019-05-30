@@ -71,6 +71,7 @@ function handleErrors(error) {
 
 
 //Async/Await
+//https://ehkoo.com/bai-viet/tat-tan-tat-ve-promise-va-async-await
 
 function afterTwoSeconds(value) {
   return new Promise(resolve => {
@@ -85,3 +86,7 @@ async function sumTwentyAfterTwoSeconds(value) {
 
 sumTwentyAfterTwoSeconds(10)
   .then(result => console.log('after 2 seconds', result))
+
+
+
+  
