@@ -1,7 +1,7 @@
 {
     "name": "chungdasilva/javascript",
     "description": "Chung Dasilva",
-    "keywords": ["framework", "laravel"],
+    "keywords": ["framework", "laravel", "javascript", "reactjs"],
     "license": "MIT",
     "type": "project",
     "require": {
